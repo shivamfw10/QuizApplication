@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![Project Preview](./src/quiz-app.png)
+![Project Preview](https://github.com/shivamfw10/QuizApplication/blob/main/public/quiz_img1.png)
 
 # Getting Started with Create React App
 
